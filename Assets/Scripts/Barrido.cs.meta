@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b87f923208ab1174c85e8b61e8adb2fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shotWave: {fileID: 273530238652875024, guid: d95868821bd4ad54e968b229c692e38e,
+      type: 3}
+  - shotSpaw: {fileID: 4754361931721435647, guid: 06cf81b935b577d4ba8f6b13c10e9319,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
